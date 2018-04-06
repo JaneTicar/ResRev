@@ -1,0 +1,8 @@
+c:\users\comlabpc15\source\repos\RevRes\RevRes\obj\Debug\RevRes.csprojResolveAssemblyReference.cache
+c:\users\comlabpc15\source\repos\RevRes\RevRes\obj\Debug\Categories\List.g.cs
+c:\users\comlabpc15\source\repos\RevRes\RevRes\obj\Debug\MainWindow.g.cs
+c:\users\comlabpc15\source\repos\RevRes\RevRes\obj\Debug\Products\List.g.cs
+c:\users\comlabpc15\source\repos\RevRes\RevRes\obj\Debug\Users\List.g.cs
+c:\users\comlabpc15\source\repos\RevRes\RevRes\obj\Debug\App.g.cs
+c:\users\comlabpc15\source\repos\RevRes\RevRes\obj\Debug\RevRes_MarkupCompile.cache
+c:\users\comlabpc15\source\repos\RevRes\RevRes\obj\Debug\RevRes_MarkupCompile.lref

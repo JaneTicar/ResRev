@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevRes.POS", "RevRes.Domain\RevRes.POS.csproj", "{385CA296-51CB-4C71-A62A-0ABCFC8756BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevRes.newDomain", "RevRes.newDomain\RevRes.newDomain.csproj", "{6719CBA6-FBAD-4A97-958F-6FBD98CC1212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385CA296-51CB-4C71-A62A-0ABCFC8756BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385CA296-51CB-4C71-A62A-0ABCFC8756BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385CA296-51CB-4C71-A62A-0ABCFC8756BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385CA296-51CB-4C71-A62A-0ABCFC8756BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6719CBA6-FBAD-4A97-958F-6FBD98CC1212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6719CBA6-FBAD-4A97-958F-6FBD98CC1212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6719CBA6-FBAD-4A97-958F-6FBD98CC1212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6719CBA6-FBAD-4A97-958F-6FBD98CC1212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D007841-CD6B-4ED2-B046-54D238A72BA3}
+	EndGlobalSection
+EndGlobal
